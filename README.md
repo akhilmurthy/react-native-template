@@ -48,3 +48,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# kippu-mobile git init git add . git commit -m first commit git branch -M main git remote add origin git@github.com:kippu-vip/kippu-mobile.git git push -u origin main
+# kippu-mobile
